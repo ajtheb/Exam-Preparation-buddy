@@ -1,4 +1,8 @@
-Exam Preparation Buddy is a Retrieval Augmentation Generation (RAG) based python application which uses PDFs given by the user for grounded generation of answers of the user's queries. 
+**Exam Preparation Buddy** is a Retrieval Augmentation Generation **(RAG)** based python application which uses **PDFs given by the user** for grounded generation of answers of the user's queries. 
+
+**Format** supported for subject material: PDFs
+
+**LLM** used: Gemma 2b for now(constraint by GPU memory)
 
 How to run?
 1. Run the command : streamlit run app.py
